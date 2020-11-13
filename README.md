@@ -9,6 +9,3 @@ I am Yuchao Huang.
 - 📫 How to reach me: [e-mail](mailto:misterchaos@163.com) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fan of Lakers and i enjoy playing the guitar.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterchaos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
